@@ -1,4 +1,3 @@
-# DeepLearning_MushroomClassification
 # Proyecto de clasificación de hongos de Deep Learning
 
 ## Miembros del grupo
