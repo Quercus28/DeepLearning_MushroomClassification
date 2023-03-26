@@ -4,7 +4,7 @@
 ## Miembros del grupo
 
 - Gabriel Eduardo Camargo García, Ingeniería de Sistemas
-- Francisco Javier Silva Cadavid, Ingeniería Civil
+- Francisco Javier Silva Cadavid, Ingeniería de Sistemas
 
 ## Datos
 
