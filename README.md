@@ -10,3 +10,5 @@
 [Enlace al dataset](https://www.kaggle.com/datasets/uciml/mushroom-classification)
 
 ## Videos
+
+[Enlace al video](https://youtu.be/jPth-E2NGwE)
